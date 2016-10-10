@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Numeros</string>
+    <string name="numero1">1</string>
+    <string name="numero2">2</string>
+</resources>
